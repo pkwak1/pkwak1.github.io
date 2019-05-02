@@ -1,2 +1,3 @@
 # pkwak1.github.io
-https://[username].github.io/
+Access by going to the link below:
+https://pkwak1.github.io/
